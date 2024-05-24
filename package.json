@@ -17,10 +17,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/caolan/forms.git"
+        "url": "https://github.com/mrchcwby/forms.git"
     },
     "bugs": {
-        "url": "https://github.com/caolan/forms/issues"
+        "url": "https://github.com/mrchcwby/forms/issues"
     },
     "scripts": {
         "prepublishOnly": "safe-publish-latest",
